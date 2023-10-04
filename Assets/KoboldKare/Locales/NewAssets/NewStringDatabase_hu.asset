@@ -969,7 +969,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 213551810376945664
-    m_Localized: "\xC9rzem a s\xF6t\xE9t jelenl\xE9tet a k\xF6zeli barlangokban,
+    m_Localized: "S\xF6t\xE9t jelenl\xE9tet \xE9rz\xE9kelek a k\xF6zeli barlangokban,
       menj \xE9s vizsg\xE1lok meg nekem."
     m_Metadata:
       m_Items: []
@@ -1007,7 +1007,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 213767567815790592
-    m_Localized: "Tudjon meg t\xF6bbet a Kobolds val\xF3s\xE1gh\u0171 hajl\xEDt\xF3
+    m_Localized: "Tudjon meg t\xF6bbet a Kobolds val\xF3s\xE1gh\u0171-hajl\xEDt\xF3
       rugalmass\xE1g\xE1r\xF3l, baszd meg egy koboldot, amelynek teste nagyobb."
     m_Metadata:
       m_Items: []
@@ -1116,7 +1116,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 215233885836464146
-    m_Localized: "Tekercsel\u0151cs\u0151"
+    m_Localized: "Teker\xE1l\xF3 cs\u0151"
     m_Metadata:
       m_Items: []
   - m_Id: 215233885836464147
@@ -1231,7 +1231,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 216462783215620101
-    m_Localized: "Nagyon sok k\xF6v\xE9r koboldot akarok, nagyon hasznosak pap\xEDr
+    m_Localized: "Nagyon sok k\xF6v\xE9r koboldot akarok, ezek nagyon hasznosak pap\xEDr
       s\xFAlyk\xE9nt \xE9s p\xE1rnak\xE9nt."
     m_Metadata:
       m_Items: []
@@ -1254,7 +1254,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 216462783215620106
-    m_Localized: 'Fajta: Cicik, nagyok!'
+    m_Localized: 'Fajta: cicik, nagyok!'
     m_Metadata:
       m_Items: []
   - m_Id: 216462783215620107
@@ -1413,6 +1413,15 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 295755658549579776
     m_Localized: Koppintson a
+    m_Metadata:
+      m_Items: []
+  - m_Id: 342423402432045056
+    m_Localized: "A mod bet\xF6lt\xE9se sikertelen!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 342423402461405184
+    m_Localized: "Volt egy kiv\xE9tel egy mod bet\xF6lt\xE9se, ez megszak\xEDthatja
+      a j\xE1t\xE9kot. K\xE9rj\xFCk, ellen\u0151rizze dupl\xE1n a modokat."
     m_Metadata:
       m_Items: []
   references:

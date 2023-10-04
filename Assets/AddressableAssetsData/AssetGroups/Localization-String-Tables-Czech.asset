@@ -10,21 +10,16 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
-  m_Name: Default Local Group
+  m_Name: Localization-String-Tables-Czech
   m_EditorClassIdentifier: 
-  m_GroupName: Default Local Group
+  m_GroupName: Localization-String-Tables-Czech
   m_Data:
     m_SerializedData: []
-  m_GUID: 6d0230f09c34a674a8e038584c8a0970
-  m_SerializeEntries:
-  - m_GUID: 6d5aa2af26398144db1ca9d743d9c17e
-    m_Address: Assets/KoboldKare/Prefabs/UI/FailedToLoadMods.prefab
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  m_ReadOnly: 0
+  m_GUID: 6c89df3bb9bb30b449d58e1bed77f174
+  m_SerializeEntries: []
+  m_ReadOnly: 1
   m_Settings: {fileID: 11400000, guid: bae434cba05d81d4b9cb5c181a2fbf2c, type: 2}
   m_SchemaSet:
     m_Schemas:
-    - {fileID: 11400000, guid: b2936cf075788f24b946634dd28d59c4, type: 2}
-    - {fileID: 11400000, guid: b6cf1b3332282ef4e9e305e3a828195d, type: 2}
+    - {fileID: 11400000, guid: caac36f32999d8a4fb0121b77234f12c, type: 2}
+    - {fileID: 11400000, guid: f5c11c26de4ec4c4b9328513c41a2f95, type: 2}

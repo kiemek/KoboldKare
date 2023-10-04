@@ -959,8 +959,8 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 213551810376945664
-    m_Localized: "Jeg f\xF8ler en m\xF8rk tilstedev\xE6relse i de n\xE6rliggende
-      huler, g\xE5 og unders\xF8ge for mig."
+    m_Localized: "Jeg fornemmer en m\xF8rk tilstedev\xE6relse i de n\xE6rliggende
+      huler, g\xE5r og unders\xF8ger for mig."
     m_Metadata:
       m_Items: []
   - m_Id: 213551810376945665
@@ -1041,7 +1041,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 214537223052775427
-    m_Localized: "Alligevel bare \xE5h .. Hj\xE6lp dig selv, antager jeg."
+    m_Localized: "Alligevel bare uh .. Hj\xE6lp dig selv antager jeg."
     m_Metadata:
       m_Items: []
   - m_Id: 214537223052775428
@@ -1058,7 +1058,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 214537223052775431
-    m_Localized: "\xD8h ... har du noget imod at s\xE6tte p\xE5 nogle bukser?"
+    m_Localized: "\xC5h ... har du noget imod at l\xE6gge p\xE5 nogle bukser?"
     m_Metadata:
       m_Items: []
   - m_Id: 214891307416997888
@@ -1168,7 +1168,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 215233885836464133
-    m_Localized: Tror du, at jeg ville se godt ud i en hat?
+    m_Localized: Tror du, jeg ville se godt ud i en hat?
     m_Metadata:
       m_Items: []
   - m_Id: 215233885836464134
@@ -1310,7 +1310,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 258400516968075264
-    m_Localized: Mod -konfiguration
+    m_Localized: MOD -konfiguration
     m_Metadata:
       m_Items: []
   - m_Id: 268693956486176768
@@ -1395,6 +1395,15 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 295755658549579776
     m_Localized: "Tryk p\xE5"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 342423402432045056
+    m_Localized: Modbelastning mislykkedes!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 342423402461405184
+    m_Localized: "Der var en undtagelse, der indl\xE6ste en mod, dette kan bryde
+      spillet. Kontroller venligst dine mods."
     m_Metadata:
       m_Items: []
   references:

@@ -569,7 +569,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 35594366247030784
-    m_Localized: Brilells sutki
+    m_Localized: "Bril\xF3wki sutkowe"
     m_Metadata:
       m_Items: []
   - m_Id: 35653807596163072
@@ -587,8 +587,8 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 38135240696844289
-    m_Localized: "Magiczne przywi\u0105zane z w\u0119z\u0142em, pier\u015Bcieniem
-      przy\u015Brodkowym i kilka wyboistych grzbiet\xF3w."
+    m_Localized: "Magiczne przywi\u0105zane z w\u0119z\u0142em, pier\u015Bcie\u0144
+      przy\u015Brodkowy i kilka wyboistych grzbiet\xF3w."
     m_Metadata:
       m_Items: []
   - m_Id: 38135240696844290
@@ -712,7 +712,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 197833684470169603
-    m_Localized: Jajko od smoka Lorda!
+    m_Localized: Jajko od Smok Lorda!
     m_Metadata:
       m_Items: []
   - m_Id: 197833684470169604
@@ -748,7 +748,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 198589332862500869
-    m_Localized: "Dostarcz du\u017Cego penisa Koboldsa."
+    m_Localized: "Dostarcz du\u017Cego kutasa Koboldsa."
     m_Metadata:
       m_Items: []
   - m_Id: 198589332862500870
@@ -771,7 +771,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 198589332866695171
-    m_Localized: "Wype\u0142nij kobolda sperm\u0105, dop\xF3ki nie b\u0119d\u0105
+    m_Localized: "Wype\u0142nij Kobolda sperm\u0105, dop\xF3ki nie b\u0119d\u0105
       ju\u017C mogli znie\u015B\u0107, musz\u0119 zobaczy\u0107, jak trwa\u0142y
       jest tw\xF3j rodzaj."
     m_Metadata:
@@ -972,7 +972,7 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 213551810376945664
     m_Localized: "Wyczuwam ciemn\u0105 obecno\u015B\u0107 w pobliskich jaskiniach,
-      id\u017A do mnie."
+      id\u017A dla mnie i sprawdzaj mnie."
     m_Metadata:
       m_Items: []
   - m_Id: 213551810376945665
@@ -1161,7 +1161,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 215233885836464128
-    m_Localized: "Zrobi\u0119 to, oczywi\u015Bcie za cen\u0119 ..."
+    m_Localized: "Zrobi\u0119 to, oczywi\u015Bcie w cenie ..."
     m_Metadata:
       m_Items: []
   - m_Id: 215233885836464129
@@ -1413,6 +1413,15 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 295755658549579776
     m_Localized: "Uzyskiwa\u0107"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 342423402432045056
+    m_Localized: "\u0141adowanie mod\xF3w nie powiod\u0142o si\u0119!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 342423402461405184
+    m_Localized: "By\u0142 wyj\u0105tek \u0142aduj\u0105cy mod, mo\u017Ce to przerwa\u0107
+      gr\u0119. Sprawd\u017A dwukrotnie mody."
     m_Metadata:
       m_Items: []
   references:
